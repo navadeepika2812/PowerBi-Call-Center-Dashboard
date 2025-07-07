@@ -56,12 +56,7 @@ The goal of this project is to visualize call center data in an interactive and 
 
 ---
 
-## 📁 Project Files
-- `.pbix` file (Power BI dashboard)
-- Sample call center dataset (CSV or Excel)
-- Screenshots of dashboard views
 
----
 
 ## 🚀 How to Use
 1. Clone or download the repository.
